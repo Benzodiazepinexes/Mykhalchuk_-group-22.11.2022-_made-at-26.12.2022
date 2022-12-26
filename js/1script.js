@@ -1,0 +1,1 @@
+alert ("Press anything and be happy!")
